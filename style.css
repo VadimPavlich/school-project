@@ -79,3 +79,7 @@ body {
 abbr[title] {
     text-decoration: none;
 }
+
+.imgbar {
+    border-radius: 80%;
+}
