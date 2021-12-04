@@ -79,3 +79,7 @@ body {
 .imgbar {
     border-radius: 80%;
 }
+
+.topbutton {
+    border-radius: 12%;
+}
