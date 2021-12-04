@@ -1,5 +1,12 @@
 body {
     background-image: url(/img/background2.png);
+    margin: 0;
+    padding: 0;
+}
+
+.p2 {
+    padding: 100px;
+    margin: 0;
 }
 
 .p {
@@ -80,6 +87,7 @@ body {
     border-radius: 80%;
 }
 
-.topbutton {
-    border-radius: 12%;
+.color {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 }
