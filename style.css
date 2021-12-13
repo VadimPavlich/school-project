@@ -6,7 +6,6 @@ body {
     padding: 0;
 }
 
-
 .p {
     font-family: "Satisfy", cursive;
     margin-top: 0;
@@ -359,4 +358,41 @@ body {
     100% {
         color: rgb(255, 115, 0);
     }
+}
+
+/* квадрат для комбинацый */
+
+.sqcomb {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1001px;
+    height: 180px;
+    background-color: rgb(38, 40, 43);
+}
+
+.pcomb {
+    font-family: "Satisfy", cursive;
+    margin-top: 0;
+    margin-left: 36%;
+    font-size: 80px;
+    color: aliceblue;
+    animation-name: Resume;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+/* картинка комб */
+
+.combpict {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    bottom: 1px;
+    left: 100px;
+}
+
+.woodst {
+    width: 500px;
+    height: 600px;
 }
