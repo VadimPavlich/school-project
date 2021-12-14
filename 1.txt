@@ -86,3 +86,8 @@ class="topbutton" class="text-decoration-none
 
 
 class="d-block w-100"
+
+
+<div>
+        <img class="combpict" src="/img/comb.png" alt="">
+    </div>

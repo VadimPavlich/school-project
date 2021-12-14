@@ -76,7 +76,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 1000px;
-    height: 150px;
+    height: f1;
     background-color: rgb(38, 40, 43);
 }
 
@@ -395,4 +395,23 @@ body {
 .woodst {
     width: 500px;
     height: 600px;
+}
+
+.sqwood {
+    position: relative;
+    margin-left: 36%;
+    margin-top: -16%;
+    width: 1000px;
+    height: 150px;
+    background-color: rgb(38, 40, 43);
+    border-radius: 1em;
+}
+
+.picwood {
+    width: 500px;
+    height: 300px;
+    border-radius: 1em;
+    position: relative;
+    margin-left: 7%;
+    margin-top: 5%;
 }
