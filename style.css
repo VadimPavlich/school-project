@@ -622,3 +622,25 @@ body {
     background-color: rgb(38, 40, 43);
     border-radius: 1em;
 }
+
+/*button*/
+.color {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.main {
+    position: relative;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.main2 {
+    position: relative;
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+.blackop {
+    -webkit-text-fill-color: transparent;
+}
