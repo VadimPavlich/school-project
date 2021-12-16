@@ -623,6 +623,15 @@ body {
     border-radius: 1em;
 }
 
+.fl {
+    position: relative;
+    border-radius: 1em;
+    margin-top: -10%;
+    margin-left: 10%;
+    height: 225px;
+    width: 400px;
+}
+
 /*button*/
 .color {
     color: rgb(255, 255, 255);
