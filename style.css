@@ -455,6 +455,8 @@ body {
     border-radius: 1em;
     margin-top: -8%;
     margin-left: 12%;
+    height: 225px;
+    width: 400px;
 }
 
 .sqfireb {
@@ -473,6 +475,8 @@ body {
     border-radius: 1em;
     margin-top: -10%;
     margin-left: 72%;
+    height: 225px;
+    width: 400px;
 }
 
 /* water */
@@ -549,8 +553,8 @@ body {
     border-radius: 1em;
     margin-top: -8%;
     margin-left: 7%;
-    width: 398px;
-    height: 200px;
+    height: 225px;
+    width: 400px;
 }
 
 .sqwind {
@@ -591,4 +595,30 @@ body {
     background-size: cover;
     -moz-background-size: cover;
     -moz-background-size: cover;
+}
+
+/*haku*/
+
+.sqhaku {
+    position: relative;
+    margin-left: -10%;
+    margin-top: 10%;
+    margin-right: auto;
+    width: 1000px;
+    height: 170px;
+    background-color: rgb(38, 40, 43);
+    border-radius: 1em;
+}
+
+/*lava*/
+
+.sqlava {
+    position: relative;
+    margin-left: 32%;
+    margin-top: 8%;
+    margin-right: auto;
+    width: 1000px;
+    height: 140px;
+    background-color: rgb(38, 40, 43);
+    border-radius: 1em;
 }
