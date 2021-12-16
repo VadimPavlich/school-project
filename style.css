@@ -533,3 +533,30 @@ body {
     -moz-background-size: cover;
     -moz-background-size: cover;
 }
+
+/*wind*/
+.windbody {
+    background-image: url(/back/wind.png);
+    background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+}
+
+.rs {
+    position: relative;
+    border-radius: 1em;
+    margin-top: -8%;
+    margin-left: 7%;
+    width: 398px;
+    height: 200px;
+}
+
+.sqwind {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 150px;
+    background-color: rgb(38, 40, 43);
+    border-radius: 1em;
+}
